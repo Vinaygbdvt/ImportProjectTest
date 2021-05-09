@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707343757847",
+    "project_id": "mindful-quasar-736",
+    "storage_bucket": "mindful-quasar-736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707343757847:android:8e407c4e60d7de6a5ca252",
+        "android_client_info": {
+          "package_name": "com.vini.fireLogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707343757847-j99e1ec492aa8ke6pe949r09bs7ss34r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbS1w2ITk3EYYCNONyeBSXbys2tNDYsbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707343757847-j99e1ec492aa8ke6pe949r09bs7ss34r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
